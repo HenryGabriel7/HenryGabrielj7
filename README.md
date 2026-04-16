@@ -53,19 +53,20 @@ Utilizo tecnologias modernas e inteligência artificial para desenvolver soluç�
 
 ---
 
+
+### 🔹 Portfólio Pessoal
+Apresentação dos meus projetos e soluções desenvolvidas.
+
+👉 https://portfolio-henry.lovable.app/
+
+
+---
 ## 🚀 Projetos em Destaque
 
 ### 🔹 Sistema de Agendamento Online
 Sistema completo com painel administrativo, controle de horários e automação de atendimentos.
 
 👉 https://rod-barbearia.vercel.app/
-
----
-
-### 🔹 Portfólio Pessoal
-Apresentação dos meus projetos e soluções desenvolvidas.
-
-👉 https://portfolio-henry.lovable.app/
 
 ---
 
