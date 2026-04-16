@@ -1,61 +1,62 @@
-# HenryGabrielj7
+<h1 align="center">👋 Olá, eu sou Henry Gabriel</h1>
 
-# 👋 Olá, eu sou Henry Gabriel
+<p align="center">
+💻 Desenvolvedor Web | ⚙️ Automação de Processos | 🚀 Criador de Sistemas
+</p>
 
-💻 Desenvolvedor Web focado em criação de sistemas e automação de processos  
-🎓 Estudante de tecnologia (ADS, GTI e Redes de Computadores)  
-🇧🇷 Brasil  
+<p align="center">
+🎓 ADS • GTI • Redes de Computadores <br>
+🇧🇷 Brasil
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Desenvolvo sistemas web completos com foco em resolver problemas reais de negócios.
+Desenvolvedor focado na criação de **sistemas web completos** e **soluções automatizadas** para resolver problemas reais.
 
-Atuo na criação de soluções como:
-- sistemas de agendamento
-- painéis administrativos
-- automação de processos
+Atuo desenvolvendo aplicações modernas com foco em:
+- organização de processos
+- automação de tarefas
+- eficiência operacional
 
-Utilizo tecnologias modernas e inteligência artificial para desenvolver aplicações de forma rápida, eficiente e escalável.
+Utilizo tecnologias modernas e inteligência artificial para desenvolver soluções rápidas, escaláveis e funcionais.
 
 ---
 
 ## 🧠 O que eu faço
 
 - 🏗️ Desenvolvimento de sistemas web completos  
-- ⚙️ Automação de processos e fluxos de trabalho  
-- 📊 Criação de painéis administrativos  
+- ⚙️ Automação de processos e fluxos  
+- 📊 Criação de dashboards e painéis administrativos  
 - 🔗 Integração com banco de dados  
-- 🚀 Desenvolvimento de projetos reais  
+- 🚀 Construção de projetos reais  
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-- Next.js  
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,react" />
+</p>
 
-### Backend / Banco de Dados
-- Supabase  
-- JavaScript  
-- SQL  
+### ⚙️ Backend / Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
+</p>
 
-### Ferramentas
-- Vercel  
-- Git  
-- Figma  
-- Inteligência Artificial (Claude, Lovable)  
+### 🧰 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel" />
+</p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos em Destaque
 
 ### 🔹 Sistema de Agendamento Online
-Sistema completo com painel administrativo, controle de horários e organização de atendimentos.
+Sistema completo com painel administrativo, controle de horários e automação de atendimentos.
 
 👉 https://rod-barbearia.vercel.app/
 
@@ -68,27 +69,36 @@ Apresentação dos meus projetos e soluções desenvolvidas.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🎯 Objetivo
 
-Criar sistemas que resolvem problemas reais, automatizam processos e ajudam negócios a crescerem com tecnologia.
+Criar sistemas que automatizam processos, resolvem problemas reais e ajudam negócios a crescerem com tecnologia.
 
 ---
 
 ## 🚀 Atualmente
 
-- 📚 Evoluindo na área de desenvolvimento web  
-- 💼 Buscando estágio ou oportunidades remotas  
-- 🧠 Aprendendo e aplicando na prática  
+- 📚 Evoluindo em desenvolvimento web  
+- 💼 Buscando estágio e oportunidades remotas  
+- 🧠 Construindo projetos reais  
 
 ---
 
 ## 🤝 Contato
 
-📩 Aberto a oportunidades, projetos e colaborações
+📩 Aberto a projetos, oportunidades e colaborações
 
 ---
 
 ## 💡 Filosofia
 
-"Não se trata apenas de aprender a programar,  
-mas de construir soluções reais que geram impacto."
+> "Não se trata apenas de aprender a programar,  
+> mas de construir soluções reais que geram impacto."
